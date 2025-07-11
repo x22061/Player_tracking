@@ -1,0 +1,20 @@
+# Core Dependencies for Hybrid-SORT
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.21.0
+pandas>=1.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing
+scipy>=1.7.0
+matplotlib>=3.5.0
+
+# Optional: For better tracking algorithms
+# yolox  # Uncomment if you want to use BYTETracker
+
+# Additional utilities
+tqdm>=4.64.0
+pillow>=8.3.0
+Pillow>=9.5.0
+scipy>=1.10.0
